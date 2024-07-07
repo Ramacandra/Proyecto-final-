@@ -4,16 +4,13 @@
   | default @import url()
   |============================
 */
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('./reset.css');
-@import url('./vite-promo.css');
+@import url('./body.css');
 @import url('./header.css');
 
 :root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 400;
-
+  font-family: "Jost", sans-serif, Inter, Avenir, Helvetica, Arial, sans-serif;
   color: #242424;
   background-color: rgba(255, 255, 255, 0.87);
 
