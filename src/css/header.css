@@ -16,6 +16,12 @@ justify-content: space-between;
   gap: 5px;
 }
 
+.nav-link-logo {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
 .nav-logo {
   padding: 0 10px 0 0;
 }

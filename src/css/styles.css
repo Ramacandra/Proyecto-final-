@@ -8,6 +8,8 @@
 @import url('./reset.css');
 @import url('./body.css');
 @import url('./header.css');
+@import url('./login.css');
+@import url('./register.css');
 
 :root {
   font-family: "Jost", sans-serif, Inter, Avenir, Helvetica, Arial, sans-serif;
@@ -20,3 +22,4 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
